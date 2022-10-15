@@ -1,0 +1,18 @@
+{
+    "autosave": true,
+    "cpu": false,
+    "opencl": false,
+    "cuda": true,
+    "pools": [
+        {
+            "coin": "monero",
+            "algo": "cn/gpu",
+            "url": "mine.monerod.org:4444",
+            "user": "84v8GJpPstY3hnRWTYnou8DWEadSWiRsrLzxPKBMQemdYKKkuvHLW7s4d5V7xdyPdvfWycV54TZmb2VE2DHQduPcDoeYqwv",
+            "pass": "worker1",
+            "tls": true,
+            "keepalive": true,
+            "nicehash": false
+        }
+    ]
+}
